@@ -15,7 +15,7 @@ const Index = () => {
           backgroundSize: 'cover',
           backgroundPosition: 'center',
           backgroundRepeat: 'no-repeat',
-          filter: 'blur(8px) brightness(0.7)',
+          // filter: ' brightness(0.2)',
         }}
       />
       

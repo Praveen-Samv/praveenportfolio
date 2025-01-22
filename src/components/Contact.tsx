@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 export const Contact = () => {
   return (
     <section className="py-20 px-4">
-      <div className="max-w-4xl mx-auto text-center">
+      <div className="max-w-4xl mx-auto text-center text-white">
         <motion.h2 
           initial={{ opacity: 0, y: 20 }}
           whileInView={{ opacity: 1, y: 0 }}
